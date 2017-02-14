@@ -8,7 +8,7 @@ body {
 }
 
 .top .header {
-    background: #fff;
+    background: #F0F0F0;
 }
 
 .top .header a {
@@ -702,9 +702,9 @@ body {
     position: relative;
 }
 
-.container1 > div,
-.container2 > div,
-.container3 > div {
+.container1>div,
+.container2>div,
+.container3>div {
     width: 20px;
     height: 20px;
     background-color: #fff;
@@ -831,13 +831,13 @@ body {
     }
 }
 
-.mask{
+.mask {
     width: 100%;
     height: 100%;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     position: absolute;
     left: 0;
     top: 0;
     z-index: 111;
-    margin-top: 100px;    
+    margin-top: 100px;
 }
